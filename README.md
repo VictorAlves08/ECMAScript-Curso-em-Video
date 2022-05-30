@@ -1,1 +1,2 @@
-# ECMAScript-Curso-em-Video
+# JavaScript-ECMAScript-Curso-em-Video
+ 
